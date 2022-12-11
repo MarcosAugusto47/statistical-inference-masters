@@ -1,0 +1,15 @@
+Aula 1 - Distribuição do Plano de Ensino
+         Introdução sobre estimação pontual paramétrica      
+         [Cap. 8, Seções 8.1, 8.2] 
+         Exercícios: Problemas 8.2 (todos)
+Aula 2 - Definição de suficiência e critério da fatoração (caso discreto)
+         [Cap. 8, Seção 8.3]
+Aula 3 - Critério da fatoração (caso contínuo)
+         [Cap. 8, Seção 8.3]
+         Exercícios: Problemas 8.3, questões 1, 5, 7, 10 e 12.
+Aula 4 - Completude (ou completitude)
+         [Cap. 8, Seção 8.3]
+         Exercícios: Problemas 8.3, questões 2, 3, 4, 6, 8 e 9.
+
+         [Cap. 8, Seção 8.4]
+         Exercícios: Problemas 8.4, questões 7, 8, 9, 10, 25, 26
